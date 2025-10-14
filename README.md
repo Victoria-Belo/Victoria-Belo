@@ -15,7 +15,9 @@
 ## Stats:
 <div align="center"> 
   <div align="center">
-    <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+   <a href="https://git.io/streak-stats">
+     <img src="https://streak-stats.demolab.com?user=Victoria-Belo&theme=radical&hide_border=true" alt="GitHub Streak"/>
+   </a>
   </div><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victoria-Belo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Victoria-Belo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
