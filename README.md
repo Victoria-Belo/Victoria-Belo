@@ -16,7 +16,7 @@
 <div align="center"> 
   <div align="center">
    <a href="https://git.io/streak-stats">
-     <img src="https://streak-stats.demolab.com?user=Victoria-Belo&theme=radical&hide_border=true" alt="GitHub Streak"/>
+     <img src="https://streak-stats.demolab.com?user=Victoria-Belo&theme=radical&hide_border=true&cache_seconds=10" alt="GitHub Streak"/>
    </a>
   </div><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victoria-Belo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
